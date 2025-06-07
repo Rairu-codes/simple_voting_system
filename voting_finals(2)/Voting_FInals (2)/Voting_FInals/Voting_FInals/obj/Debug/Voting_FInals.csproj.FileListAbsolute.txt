@@ -1,0 +1,79 @@
+E:\NU\2nd Year\Information Management\Finals\Voting_FInals\Voting_FInals\obj\Debug\Voting_FInals.csprojAssemblyReference.cache
+E:\NU\2nd Year\Information Management\Finals\Voting_FInals\Voting_FInals\obj\Debug\Voting_FInals.VOTING_SYSTEM.resources
+E:\NU\2nd Year\Information Management\Finals\Voting_FInals\Voting_FInals\obj\Debug\Voting_FInals.Form2.resources
+E:\NU\2nd Year\Information Management\Finals\Voting_FInals\Voting_FInals\obj\Debug\Voting_FInals.Properties.Resources.resources
+E:\NU\2nd Year\Information Management\Finals\Voting_FInals\Voting_FInals\obj\Debug\Voting_FInals.csproj.GenerateResource.cache
+E:\NU\2nd Year\Information Management\Finals\Voting_FInals\Voting_FInals\obj\Debug\Voting_FInals.csproj.CoreCompileInputs.cache
+E:\NU\2nd Year\Information Management\Finals\Voting_FInals\Voting_FInals\bin\Debug\Voting_FInals.exe.config
+E:\NU\2nd Year\Information Management\Finals\Voting_FInals\Voting_FInals\bin\Debug\Voting_FInals.exe
+E:\NU\2nd Year\Information Management\Finals\Voting_FInals\Voting_FInals\bin\Debug\Voting_FInals.pdb
+E:\NU\2nd Year\Information Management\Finals\Voting_FInals\Voting_FInals\obj\Debug\Voting_FInals.exe
+E:\NU\2nd Year\Information Management\Finals\Voting_FInals\Voting_FInals\obj\Debug\Voting_FInals.pdb
+E:\NU\2nd Year\Information Management\Finals\Voting_FInals\Voting_FInals\obj\Debug\Voting_FInals.accounts.resources
+E:\NU\2nd Year\Information Management\Finals\Voting_FInals\Voting_FInals\obj\Debug\Voting_FInals.admin_log.resources
+E:\NU\2nd Year\Information Management\Finals\Voting_FInals\Voting_FInals\obj\Debug\Voting_FInals.Menu.resources
+E:\NU\2nd Year\Information Management\Finals\Voting_FInals\Voting_FInals\obj\Debug\Voting_FInals.tally.resources
+E:\NU\2nd Year\Information Management\Finals\Voting_FInals\Voting_FInals\obj\Debug\Voting_FInals.vote_menu.resources
+E:\NU\2nd Year\Information Management\Finals\Voting_FInals\Voting_FInals\obj\Debug\Voting_FInals.winner.resources
+C:\Users\flcb2\OneDrive\Documents\COLLEGE\2ND YEAR\1ST TERM\INFORMATION MANAGEMENT\Voting_FInals\Voting_FInals\bin\Debug\Voting_FInals.exe.config
+C:\Users\flcb2\OneDrive\Documents\COLLEGE\2ND YEAR\1ST TERM\INFORMATION MANAGEMENT\Voting_FInals\Voting_FInals\bin\Debug\Voting_FInals.exe
+C:\Users\flcb2\OneDrive\Documents\COLLEGE\2ND YEAR\1ST TERM\INFORMATION MANAGEMENT\Voting_FInals\Voting_FInals\bin\Debug\Voting_FInals.pdb
+C:\Users\flcb2\OneDrive\Documents\COLLEGE\2ND YEAR\1ST TERM\INFORMATION MANAGEMENT\Voting_FInals\Voting_FInals\obj\Debug\Voting_FInals.csproj.AssemblyReference.cache
+C:\Users\flcb2\OneDrive\Documents\COLLEGE\2ND YEAR\1ST TERM\INFORMATION MANAGEMENT\Voting_FInals\Voting_FInals\obj\Debug\Voting_FInals.csproj.SuggestedBindingRedirects.cache
+C:\Users\flcb2\OneDrive\Documents\COLLEGE\2ND YEAR\1ST TERM\INFORMATION MANAGEMENT\Voting_FInals\Voting_FInals\obj\Debug\Voting_FInals.accounts.resources
+C:\Users\flcb2\OneDrive\Documents\COLLEGE\2ND YEAR\1ST TERM\INFORMATION MANAGEMENT\Voting_FInals\Voting_FInals\obj\Debug\Voting_FInals.admin_log.resources
+C:\Users\flcb2\OneDrive\Documents\COLLEGE\2ND YEAR\1ST TERM\INFORMATION MANAGEMENT\Voting_FInals\Voting_FInals\obj\Debug\Voting_FInals.VOTING_SYSTEM.resources
+C:\Users\flcb2\OneDrive\Documents\COLLEGE\2ND YEAR\1ST TERM\INFORMATION MANAGEMENT\Voting_FInals\Voting_FInals\obj\Debug\Voting_FInals.Form2.resources
+C:\Users\flcb2\OneDrive\Documents\COLLEGE\2ND YEAR\1ST TERM\INFORMATION MANAGEMENT\Voting_FInals\Voting_FInals\obj\Debug\Voting_FInals.Menu.resources
+C:\Users\flcb2\OneDrive\Documents\COLLEGE\2ND YEAR\1ST TERM\INFORMATION MANAGEMENT\Voting_FInals\Voting_FInals\obj\Debug\Voting_FInals.Properties.Resources.resources
+C:\Users\flcb2\OneDrive\Documents\COLLEGE\2ND YEAR\1ST TERM\INFORMATION MANAGEMENT\Voting_FInals\Voting_FInals\obj\Debug\Voting_FInals.tally.resources
+C:\Users\flcb2\OneDrive\Documents\COLLEGE\2ND YEAR\1ST TERM\INFORMATION MANAGEMENT\Voting_FInals\Voting_FInals\obj\Debug\Voting_FInals.vote_menu.resources
+C:\Users\flcb2\OneDrive\Documents\COLLEGE\2ND YEAR\1ST TERM\INFORMATION MANAGEMENT\Voting_FInals\Voting_FInals\obj\Debug\Voting_FInals.winner.resources
+C:\Users\flcb2\OneDrive\Documents\COLLEGE\2ND YEAR\1ST TERM\INFORMATION MANAGEMENT\Voting_FInals\Voting_FInals\obj\Debug\Voting_FInals.csproj.GenerateResource.cache
+C:\Users\flcb2\OneDrive\Documents\COLLEGE\2ND YEAR\1ST TERM\INFORMATION MANAGEMENT\Voting_FInals\Voting_FInals\obj\Debug\Voting_FInals.csproj.CoreCompileInputs.cache
+C:\Users\flcb2\OneDrive\Documents\COLLEGE\2ND YEAR\1ST TERM\INFORMATION MANAGEMENT\Voting_FInals\Voting_FInals\obj\Debug\Voting_FInals.exe
+C:\Users\flcb2\OneDrive\Documents\COLLEGE\2ND YEAR\1ST TERM\INFORMATION MANAGEMENT\Voting_FInals\Voting_FInals\obj\Debug\Voting_FInals.pdb
+C:\Users\flcb2\OneDrive\Documents\COLLEGE\2ND YEAR\1ST TERM\INFORMATION MANAGEMENT\Voting_FInals\Voting_FInals\obj\Debug\Voting_FInals.pres_vote.resources
+C:\Users\flcb2\OneDrive\Documents\COLLEGE\2ND YEAR\1ST TERM\INFORMATION MANAGEMENT\Voting_FInals\Voting_FInals\obj\Debug\Voting_FInals.sec_vote.resources
+C:\Users\flcb2\OneDrive\Documents\COLLEGE\2ND YEAR\1ST TERM\INFORMATION MANAGEMENT\Voting_FInals\Voting_FInals\obj\Debug\Voting_FInals.vice_vote.resources
+E:\NU\2nd Year\Information Management\Finals\voting_finals(2)\Voting_FInals (2)\Voting_FInals\Voting_FInals\bin\Debug\Voting_FInals.exe.config
+E:\NU\2nd Year\Information Management\Finals\voting_finals(2)\Voting_FInals (2)\Voting_FInals\Voting_FInals\bin\Debug\Voting_FInals.exe
+E:\NU\2nd Year\Information Management\Finals\voting_finals(2)\Voting_FInals (2)\Voting_FInals\Voting_FInals\bin\Debug\Voting_FInals.pdb
+E:\NU\2nd Year\Information Management\Finals\voting_finals(2)\Voting_FInals (2)\Voting_FInals\Voting_FInals\obj\Debug\Voting_FInals.csprojAssemblyReference.cache
+E:\NU\2nd Year\Information Management\Finals\voting_finals(2)\Voting_FInals (2)\Voting_FInals\Voting_FInals\obj\Debug\Voting_FInals.accounts.resources
+E:\NU\2nd Year\Information Management\Finals\voting_finals(2)\Voting_FInals (2)\Voting_FInals\Voting_FInals\obj\Debug\Voting_FInals.admin_log.resources
+E:\NU\2nd Year\Information Management\Finals\voting_finals(2)\Voting_FInals (2)\Voting_FInals\Voting_FInals\obj\Debug\Voting_FInals.VOTING_SYSTEM.resources
+E:\NU\2nd Year\Information Management\Finals\voting_finals(2)\Voting_FInals (2)\Voting_FInals\Voting_FInals\obj\Debug\Voting_FInals.Form2.resources
+E:\NU\2nd Year\Information Management\Finals\voting_finals(2)\Voting_FInals (2)\Voting_FInals\Voting_FInals\obj\Debug\Voting_FInals.Menu.resources
+E:\NU\2nd Year\Information Management\Finals\voting_finals(2)\Voting_FInals (2)\Voting_FInals\Voting_FInals\obj\Debug\Voting_FInals.pres_vote.resources
+E:\NU\2nd Year\Information Management\Finals\voting_finals(2)\Voting_FInals (2)\Voting_FInals\Voting_FInals\obj\Debug\Voting_FInals.Properties.Resources.resources
+E:\NU\2nd Year\Information Management\Finals\voting_finals(2)\Voting_FInals (2)\Voting_FInals\Voting_FInals\obj\Debug\Voting_FInals.sec_vote.resources
+E:\NU\2nd Year\Information Management\Finals\voting_finals(2)\Voting_FInals (2)\Voting_FInals\Voting_FInals\obj\Debug\Voting_FInals.tally.resources
+E:\NU\2nd Year\Information Management\Finals\voting_finals(2)\Voting_FInals (2)\Voting_FInals\Voting_FInals\obj\Debug\Voting_FInals.vice_vote.resources
+E:\NU\2nd Year\Information Management\Finals\voting_finals(2)\Voting_FInals (2)\Voting_FInals\Voting_FInals\obj\Debug\Voting_FInals.vote_menu.resources
+E:\NU\2nd Year\Information Management\Finals\voting_finals(2)\Voting_FInals (2)\Voting_FInals\Voting_FInals\obj\Debug\Voting_FInals.winner.resources
+E:\NU\2nd Year\Information Management\Finals\voting_finals(2)\Voting_FInals (2)\Voting_FInals\Voting_FInals\obj\Debug\Voting_FInals.csproj.GenerateResource.cache
+E:\NU\2nd Year\Information Management\Finals\voting_finals(2)\Voting_FInals (2)\Voting_FInals\Voting_FInals\obj\Debug\Voting_FInals.csproj.CoreCompileInputs.cache
+E:\NU\2nd Year\Information Management\Finals\voting_finals(2)\Voting_FInals (2)\Voting_FInals\Voting_FInals\obj\Debug\Voting_FInals.exe
+E:\NU\2nd Year\Information Management\Finals\voting_finals(2)\Voting_FInals (2)\Voting_FInals\Voting_FInals\obj\Debug\Voting_FInals.pdb
+C:\Users\flcb2\OneDrive\Desktop\voting_finals(2)\Voting_FInals (2)\Voting_FInals\Voting_FInals\bin\Debug\Voting_FInals.exe.config
+C:\Users\flcb2\OneDrive\Desktop\voting_finals(2)\Voting_FInals (2)\Voting_FInals\Voting_FInals\bin\Debug\Voting_FInals.exe
+C:\Users\flcb2\OneDrive\Desktop\voting_finals(2)\Voting_FInals (2)\Voting_FInals\Voting_FInals\bin\Debug\Voting_FInals.pdb
+C:\Users\flcb2\OneDrive\Desktop\voting_finals(2)\Voting_FInals (2)\Voting_FInals\Voting_FInals\obj\Debug\Voting_FInals.csproj.AssemblyReference.cache
+C:\Users\flcb2\OneDrive\Desktop\voting_finals(2)\Voting_FInals (2)\Voting_FInals\Voting_FInals\obj\Debug\Voting_FInals.csproj.SuggestedBindingRedirects.cache
+C:\Users\flcb2\OneDrive\Desktop\voting_finals(2)\Voting_FInals (2)\Voting_FInals\Voting_FInals\obj\Debug\Voting_FInals.accounts.resources
+C:\Users\flcb2\OneDrive\Desktop\voting_finals(2)\Voting_FInals (2)\Voting_FInals\Voting_FInals\obj\Debug\Voting_FInals.admin_log.resources
+C:\Users\flcb2\OneDrive\Desktop\voting_finals(2)\Voting_FInals (2)\Voting_FInals\Voting_FInals\obj\Debug\Voting_FInals.VOTING_SYSTEM.resources
+C:\Users\flcb2\OneDrive\Desktop\voting_finals(2)\Voting_FInals (2)\Voting_FInals\Voting_FInals\obj\Debug\Voting_FInals.Form2.resources
+C:\Users\flcb2\OneDrive\Desktop\voting_finals(2)\Voting_FInals (2)\Voting_FInals\Voting_FInals\obj\Debug\Voting_FInals.Menu.resources
+C:\Users\flcb2\OneDrive\Desktop\voting_finals(2)\Voting_FInals (2)\Voting_FInals\Voting_FInals\obj\Debug\Voting_FInals.pres_vote.resources
+C:\Users\flcb2\OneDrive\Desktop\voting_finals(2)\Voting_FInals (2)\Voting_FInals\Voting_FInals\obj\Debug\Voting_FInals.Properties.Resources.resources
+C:\Users\flcb2\OneDrive\Desktop\voting_finals(2)\Voting_FInals (2)\Voting_FInals\Voting_FInals\obj\Debug\Voting_FInals.sec_vote.resources
+C:\Users\flcb2\OneDrive\Desktop\voting_finals(2)\Voting_FInals (2)\Voting_FInals\Voting_FInals\obj\Debug\Voting_FInals.tally.resources
+C:\Users\flcb2\OneDrive\Desktop\voting_finals(2)\Voting_FInals (2)\Voting_FInals\Voting_FInals\obj\Debug\Voting_FInals.vice_vote.resources
+C:\Users\flcb2\OneDrive\Desktop\voting_finals(2)\Voting_FInals (2)\Voting_FInals\Voting_FInals\obj\Debug\Voting_FInals.vote_menu.resources
+C:\Users\flcb2\OneDrive\Desktop\voting_finals(2)\Voting_FInals (2)\Voting_FInals\Voting_FInals\obj\Debug\Voting_FInals.winner.resources
+C:\Users\flcb2\OneDrive\Desktop\voting_finals(2)\Voting_FInals (2)\Voting_FInals\Voting_FInals\obj\Debug\Voting_FInals.csproj.GenerateResource.cache
+C:\Users\flcb2\OneDrive\Desktop\voting_finals(2)\Voting_FInals (2)\Voting_FInals\Voting_FInals\obj\Debug\Voting_FInals.csproj.CoreCompileInputs.cache
+C:\Users\flcb2\OneDrive\Desktop\voting_finals(2)\Voting_FInals (2)\Voting_FInals\Voting_FInals\obj\Debug\Voting_FInals.exe
+C:\Users\flcb2\OneDrive\Desktop\voting_finals(2)\Voting_FInals (2)\Voting_FInals\Voting_FInals\obj\Debug\Voting_FInals.pdb
